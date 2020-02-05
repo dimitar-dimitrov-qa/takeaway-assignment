@@ -1,2 +1,7 @@
 
 Here I tried to execute the TCs together on multiple browser. Also to generate report in separate file.
+The main probles:
+- unstable execution on Firefox
+- unable to select the desired meal
+- unstable execution on IE
+- unable to write the result in external file
