@@ -34,7 +34,6 @@ PhoneNum :1234567890 e-mail :testuser@test.test
      */
 
     public WebDriver driver;
-    public File file = new File("C:\\Users\\ThinkPad\\Downloads\\reports\\datafile.properties");
     public WebElement addressTitle;
     public String text;
     public WebElement refNumber;
