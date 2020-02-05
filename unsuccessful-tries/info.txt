@@ -1,1 +1,2 @@
 
+Here I tried to execute the TCs together on multiple browser. Also to generate report in separate file.
